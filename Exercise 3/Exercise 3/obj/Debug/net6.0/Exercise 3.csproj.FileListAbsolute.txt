@@ -1,0 +1,15 @@
+D:\bai tap ky 2\Cacbaitapky2\C#\Exercise 3\Exercise 3\bin\Debug\net6.0\Exercise 3.exe
+D:\bai tap ky 2\Cacbaitapky2\C#\Exercise 3\Exercise 3\bin\Debug\net6.0\Exercise 3.deps.json
+D:\bai tap ky 2\Cacbaitapky2\C#\Exercise 3\Exercise 3\bin\Debug\net6.0\Exercise 3.runtimeconfig.json
+D:\bai tap ky 2\Cacbaitapky2\C#\Exercise 3\Exercise 3\bin\Debug\net6.0\Exercise 3.dll
+D:\bai tap ky 2\Cacbaitapky2\C#\Exercise 3\Exercise 3\bin\Debug\net6.0\Exercise 3.pdb
+D:\bai tap ky 2\Cacbaitapky2\C#\Exercise 3\Exercise 3\obj\Debug\net6.0\Exercise 3.csproj.AssemblyReference.cache
+D:\bai tap ky 2\Cacbaitapky2\C#\Exercise 3\Exercise 3\obj\Debug\net6.0\Exercise 3.GeneratedMSBuildEditorConfig.editorconfig
+D:\bai tap ky 2\Cacbaitapky2\C#\Exercise 3\Exercise 3\obj\Debug\net6.0\Exercise 3.AssemblyInfoInputs.cache
+D:\bai tap ky 2\Cacbaitapky2\C#\Exercise 3\Exercise 3\obj\Debug\net6.0\Exercise 3.AssemblyInfo.cs
+D:\bai tap ky 2\Cacbaitapky2\C#\Exercise 3\Exercise 3\obj\Debug\net6.0\Exercise 3.csproj.CoreCompileInputs.cache
+D:\bai tap ky 2\Cacbaitapky2\C#\Exercise 3\Exercise 3\obj\Debug\net6.0\Exercise 3.dll
+D:\bai tap ky 2\Cacbaitapky2\C#\Exercise 3\Exercise 3\obj\Debug\net6.0\refint\Exercise 3.dll
+D:\bai tap ky 2\Cacbaitapky2\C#\Exercise 3\Exercise 3\obj\Debug\net6.0\Exercise 3.pdb
+D:\bai tap ky 2\Cacbaitapky2\C#\Exercise 3\Exercise 3\obj\Debug\net6.0\Exercise 3.genruntimeconfig.cache
+D:\bai tap ky 2\Cacbaitapky2\C#\Exercise 3\Exercise 3\obj\Debug\net6.0\ref\Exercise 3.dll

@@ -1,0 +1,15 @@
+D:\bai tap ky 2\Cacbaitapky2\C#\Exercise 4\DateTimeFormat.cs\bin\Debug\net6.0\DateTimeFormat.cs.exe
+D:\bai tap ky 2\Cacbaitapky2\C#\Exercise 4\DateTimeFormat.cs\bin\Debug\net6.0\DateTimeFormat.cs.deps.json
+D:\bai tap ky 2\Cacbaitapky2\C#\Exercise 4\DateTimeFormat.cs\bin\Debug\net6.0\DateTimeFormat.cs.runtimeconfig.json
+D:\bai tap ky 2\Cacbaitapky2\C#\Exercise 4\DateTimeFormat.cs\bin\Debug\net6.0\DateTimeFormat.cs.dll
+D:\bai tap ky 2\Cacbaitapky2\C#\Exercise 4\DateTimeFormat.cs\bin\Debug\net6.0\DateTimeFormat.cs.pdb
+D:\bai tap ky 2\Cacbaitapky2\C#\Exercise 4\DateTimeFormat.cs\obj\Debug\net6.0\DateTimeFormat.cs.csproj.AssemblyReference.cache
+D:\bai tap ky 2\Cacbaitapky2\C#\Exercise 4\DateTimeFormat.cs\obj\Debug\net6.0\DateTimeFormat.cs.GeneratedMSBuildEditorConfig.editorconfig
+D:\bai tap ky 2\Cacbaitapky2\C#\Exercise 4\DateTimeFormat.cs\obj\Debug\net6.0\DateTimeFormat.cs.AssemblyInfoInputs.cache
+D:\bai tap ky 2\Cacbaitapky2\C#\Exercise 4\DateTimeFormat.cs\obj\Debug\net6.0\DateTimeFormat.cs.AssemblyInfo.cs
+D:\bai tap ky 2\Cacbaitapky2\C#\Exercise 4\DateTimeFormat.cs\obj\Debug\net6.0\DateTimeFormat.cs.csproj.CoreCompileInputs.cache
+D:\bai tap ky 2\Cacbaitapky2\C#\Exercise 4\DateTimeFormat.cs\obj\Debug\net6.0\DateTimeFormat.cs.dll
+D:\bai tap ky 2\Cacbaitapky2\C#\Exercise 4\DateTimeFormat.cs\obj\Debug\net6.0\refint\DateTimeFormat.cs.dll
+D:\bai tap ky 2\Cacbaitapky2\C#\Exercise 4\DateTimeFormat.cs\obj\Debug\net6.0\DateTimeFormat.cs.pdb
+D:\bai tap ky 2\Cacbaitapky2\C#\Exercise 4\DateTimeFormat.cs\obj\Debug\net6.0\DateTimeFormat.cs.genruntimeconfig.cache
+D:\bai tap ky 2\Cacbaitapky2\C#\Exercise 4\DateTimeFormat.cs\obj\Debug\net6.0\ref\DateTimeFormat.cs.dll
